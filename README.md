@@ -88,6 +88,7 @@ To disable bee just run [UnInfectMe.bat](UnInfectMe.bat) on target.
 + Ubuntu 14.04-16.04 LTS
 + Debian 8.5
 + Linux Mint 18.1
++ Backbox Linux
 
 
 
