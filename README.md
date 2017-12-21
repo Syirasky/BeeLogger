@@ -39,7 +39,26 @@ chmod +x install.sh
 ```
 python bee.py
 ```
+### Running For Backbox OS (edited by Syirasky):
+```
+cd BeeLogger
+```
 
+```
+sudo su
+```
+
+```
+chmod +x backboxinstallscripts.sh
+```
+
+```
+./backboxinstallscripts.sh
+```
+
+```
+python bee.py
+```
 If you have another version of Python:
 
 ```
